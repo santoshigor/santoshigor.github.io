@@ -2,9 +2,19 @@ body {
     background: #ce37ce p 
 }
 
+h1 {
+    text-align: center
+}
+
 p {
     text-align: center;
-}a
+}
+
+#missao {
+    font-size: 20px
+}
+
+
 
 em strong {
     color: red;
