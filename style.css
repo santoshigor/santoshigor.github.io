@@ -1,5 +1,5 @@
 body {
-    background: #37ceb5c5 p 
+    background: #CCCCCC 
 }
 
 h1 {
@@ -7,16 +7,14 @@ h1 {
 }
 
 p {
-    text-align: center;a1
+    text-align: center;
 }
 
 #missao {
     font-size: 20px
 }
 
-
-
 em strong {
-    color: red;
+    color: #FF0000;
 }
  
